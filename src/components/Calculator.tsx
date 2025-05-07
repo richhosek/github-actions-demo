@@ -12,6 +12,8 @@ export default function Calculator() {
   if (1 === true) {
     console.log("YES");
     
+  } else {
+    console.log('NO');
   }
 
   const handleAddClick = () => {
